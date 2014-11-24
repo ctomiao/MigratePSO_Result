@@ -1,0 +1,4 @@
+avg_min: 0
+avg_max: 271.864
+avg_mean: 35.3696
+std: 75.7363
